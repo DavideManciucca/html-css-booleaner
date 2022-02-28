@@ -41,3 +41,24 @@ thead{
 .contenuto2{
   background-color: skyblue;
 }
+
+h4{
+  color: grey;
+}
+
+.caption1{
+  text-align: center;
+  color: white;
+  background-image: url(img/img/monitor.jpg);
+  width: 23%;
+  height: 150px;
+}
+
+.caption2{
+  margin-top: 20px;
+  text-align: center;
+  color: white;
+  background-image: url(img/img/graph.jpg);
+  width: 23%;
+  height: 150px;
+}
