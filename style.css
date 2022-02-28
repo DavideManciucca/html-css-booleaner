@@ -1,6 +1,9 @@
-body{ 
-margin-left: 8%;
-margin-right: 8%;
+.logo{
+  width: 150px;
+}
+.container{
+  margin-left: 20px;
+  margin-right: 20px;
 }
 header{
  background-image: url(img/img/pattern.png);
@@ -20,4 +23,21 @@ header{
 }
 .commenti{
   font-size: 8px;
+}
+ul{
+  margin-left: 0%;
+  padding: 0%;
+}
+.larghezza{
+  width: 50%;
+}
+thead{
+  color: white;
+  background-color: skyblue;
+}
+.contenuto1{
+  background-color: snow;
+}
+.contenuto2{
+  background-color: skyblue;
 }
